@@ -1,0 +1,38 @@
+[
+{
+  "model": "blog.post",
+  "pk": 5,
+  "fields": {
+    "author": 1,
+    "title": "Saturn: A Breathtaking View of the Universe",
+    "text": "Saturn shines beautifully in the dark night sky. Its magnificent rings glow above a frozen landscape. The rocky mountains create a mysterious atmosphere. Countless stars sparkle across the vast universe. This breathtaking view captures the beauty and wonder of outer space.",
+    "created_date": "2026-10-14T04:46:00Z",
+    "published_date": "2026-10-14T04:46:00Z",
+    "image": "images/2026/10/14/8385-saturn-54999_640_QfZ4Zw8.jpg"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 9,
+  "fields": {
+    "author": 1,
+    "title": "Dancing Lights of the Northern Sky",
+    "text": "The Northern Lights illuminate the night sky with beautiful colors. Bright shades of green, pink, and orange dance above the snowy mountains. A lone traveler stands beneath the magical display. The colorful lights reflect beautifully on the icy landscape. This breathtaking scenery captures the peaceful beauty of nature.",
+    "created_date": "2026-10-14T10:10:47Z",
+    "published_date": "2026-10-14T10:10:47Z",
+    "image": "images/2026/10/14/android_photo_1791972642440.jpg"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 10,
+  "fields": {
+    "author": 1,
+    "title": "The Golden Galaxy: Wonders of the Universe",
+    "text": "A magnificent galaxy glows brightly in the vast universe. Golden stars and cosmic dust create a breathtaking spiral of light. Countless planets and asteroids float through the mysterious darkness. The glowing center illuminates the surrounding clouds with beautiful orange and blue colors. This spectacular scene captures the endless beauty and mystery of outer space.",
+    "created_date": "2026-10-14T10:23:44.854Z",
+    "published_date": "2026-10-14T10:23:44.853Z",
+    "image": "images/2026/10/14/android_photo_1791973406780.png"
+  }
+}
+]
