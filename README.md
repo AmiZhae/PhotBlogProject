@@ -2,7 +2,7 @@
 
 **Django PhotoBlog REST API + Android PhotoViewer**
 
-A mobile/web service project developed for **2026 Fall Semester – Mobile/Web Service Project (모바일/웹서비스 프로젝트), Common Assessment 01**. The system connects a Django-based photo blog and REST API to a native Android photo viewer, allowing users to browse, synchronize, and upload image posts.
+A mobile/web service project developed for **2026 Fall Semester – Mobile/Web Service Project (모바일/웹서비스 프로젝트), 공통평가 01**. The system connects a Django-based photo blog and REST API to a native Android photo viewer, allowing users to browse, synchronize, and upload image posts.
 
 ## Project overview
 
