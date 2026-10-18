@@ -10,7 +10,6 @@ The project demonstrates end-to-end communication between a Python web server an
 
 **Live deployment:** [Django PhotoBlog on PythonAnywhere](https://amizhae.pythonanywhere.com/)  
 **REST API:** [Photo posts endpoint](https://amizhae.pythonanywhere.com/api_root/Post/)  
-**Repository:** [AmiZhae/PhotoBlogProject](https://github.com/AmiZhae/PhotoBlogProject)
 
 ## Technology stack
 
