@@ -219,10 +219,6 @@ Example response fields shown in the project report:
 
 *This is an illustrative JSON example based on the fields demonstrated in the report; the actual response may contain different post data.*
 
-## Assessment coverage
-
-The project report documents completion of all **14 assessment items**, including repository submission, Django PhotoBlog, REST API validation, automated testing, socket-server request inspection, Android synchronization, image upload, cloud deployment, and five additional client features.
-
 ## Author
 
 **Ahmad Amirul Zharif**  
